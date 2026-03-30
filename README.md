@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abdallah Mamdouh</h1>
-<h3 align="center">.NET Engineer | Building Secure & Scalable Systems | PKI & Digital Signature</h3>
+<h1>Hi 👋, I'm Abdallah Mamdouh</h1>
+<h3>.NET Engineer | Building Secure & Scalable Systems | PKI & Digital Signature</h3>
 
-<p align="center">
+<p>
 Backend Engineer passionate about building secure systems, distributed architectures, and high-reliability backend platforms.
 </p>
 
@@ -66,16 +66,6 @@ Working with **digital signature infrastructure and secure systems**
 - Secure Document Signing
 - Identity Verification APIs
 - KYC Integration
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-
-</p>
 
 ## 🌍 Connect With Me
 
