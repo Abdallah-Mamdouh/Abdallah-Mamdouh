@@ -14,8 +14,6 @@ Backend Engineer passionate about building secure systems, distributed architect
 🔹 Strong background in:
 
 - Clean Architecture
-- Microservices
-- Distributed Systems
 - Secure API Design
 
 🔹 Currently working on **Digital Signature Systems & Hardware Tokens Integration**
@@ -53,8 +51,7 @@ Backend Engineer passionate about building secure systems, distributed architect
 
 - RabbitMQ  
 - SignalR  
-- WebSockets  
-- gRPC  
+- WebSockets
 
 ## 🔐 Security & Cryptography
 
