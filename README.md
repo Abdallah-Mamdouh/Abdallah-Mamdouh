@@ -40,8 +40,7 @@ Backend Engineer passionate about building secure systems, distributed architect
 
 ## 🏗 Architecture & Design
 
-- Clean Architecture  
-- Microservices Architecture  
+- Clean Architecture   
 - Modular Monolith  
 - Domain Driven Design (DDD)  
 - SOLID Principles  
