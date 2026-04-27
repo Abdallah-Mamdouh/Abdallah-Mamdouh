@@ -5,7 +5,7 @@
 Backend Engineer passionate about building secure systems, distributed architectures, and high-reliability backend platforms.
 </p>
 
-## 🚀 About Me
+## About Me
 
 🔹 .NET Backend Engineer focused on **Secure Systems & Distributed Architectures**
 
@@ -20,7 +20,7 @@ Backend Engineer passionate about building secure systems, distributed architect
 
 🔹 Passionate about solving **complex architecture & security challenges**
 
-## 🧠 Tech Stack
+## Tech Stack
 
 ### Backend
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -38,7 +38,7 @@ Backend Engineer passionate about building secure systems, distributed architect
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge)
 
-## 🏗 Architecture & Design
+## Architecture & Design
 
 - Clean Architecture   
 - Modular Monolith  
@@ -46,13 +46,13 @@ Backend Engineer passionate about building secure systems, distributed architect
 - SOLID Principles  
 - Design Patterns  
 
-## ⚡ Messaging & Realtime
+## Messaging & Realtime
 
 - RabbitMQ  
 - SignalR  
 - WebSockets
 
-## 🔐 Security & Cryptography
+## Security & Cryptography
 
 Working with **digital signature infrastructure and secure systems**
 
@@ -63,7 +63,7 @@ Working with **digital signature infrastructure and secure systems**
 - Identity Verification APIs
 - KYC Integration
 
-## 🌍 Connect With Me
+## Connect With Me
 
 <p align="left">
 
