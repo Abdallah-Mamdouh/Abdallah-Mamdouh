@@ -7,18 +7,18 @@ Backend Engineer passionate about building secure systems, distributed architect
 
 ## About Me
 
-🔹 .NET Backend Engineer focused on **Secure Systems & Distributed Architectures**
+🔵 .NET Backend Engineer focused on **Secure Systems & Distributed Architectures**
 
-🔹 Experienced in **PKI Infrastructure, Digital Signatures, Cryptography**
+🔵 Experienced in **PKI Infrastructure, Digital Signatures, Cryptography**
 
-🔹 Strong background in:
+🔵 Strong background in:
 
 - Clean Architecture
 - Secure API Design
 
-🔹 Currently working on **Digital Signature Systems & Hardware Tokens Integration**
+🔵 Currently working on **Digital Signature Systems & Hardware Tokens Integration**
 
-🔹 Passionate about solving **complex architecture & security challenges**
+🔵 Passionate about solving **complex architecture & security challenges**
 
 ## Tech Stack
 
