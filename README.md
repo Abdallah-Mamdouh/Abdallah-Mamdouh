@@ -71,10 +71,6 @@ Working with **digital signature infrastructure and secure systems**
 <img src="https://img.shields.io/badge/LinkedIn-Abdallah%20Mamdouh-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:abdallah@abdallahmamdouh.tech">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
-</a>
-
 </p>
 
 ⭐ I enjoy building **secure backend systems**, designing **scalable architectures**, and sharing knowledge about **.NET, security, and distributed systems**.
